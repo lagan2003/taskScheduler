@@ -1,0 +1,7 @@
+First Come First Serve
+ID              | A | B | C | D | E |
+Arrival Time    | 0 | 2 | 4 | 6 | 8 |
+Burst Time      | 3 | 6 | 4 | 5 | 2 |
+Waiting Time    | 0 | 1 | 5 | 7 | 10 |
+Turnaround Time | 3 | 7 | 9 | 12 | 12 |
+Finish Time     | 3 | 9 | 13 | 18 | 20 |

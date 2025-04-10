@@ -1,0 +1,7 @@
+Shortest Job First
+ID              | A | B | C | D | E |
+Arrival Time    | 0 | 2 | 4 | 6 | 8 |
+Burst Time      | 3 | 6 | 4 | 5 | 2 |
+Waiting Time    | 0 | 1 | 7 | 9 | 1 |
+Turnaround Time | 3 | 7 | 11 | 14 | 3 |
+Finish Time     | 3 | 9 | 15 | 20 | 11 |

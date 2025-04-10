@@ -1,0 +1,6 @@
+ID              | A | B | C | D | E |
+Arrival Time    | 0 | 2 | 4 | 6 | 8 |
+Burst Time      | 3 | 6 | 4 | 5 | 2 |
+Waiting Time    | 0 | 7 | 0 | 9 | 0 |
+Turnaround Time | 3 | 13 | 4 | 14 | 2 |
+Finish Time     | 3 | 15 | 8 | 20 | 10 |

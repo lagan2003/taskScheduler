@@ -1,0 +1,7 @@
+Highest Response Ratio
+ID              | A | B | C | D | E |
+Arrival Time    | 0 | 2 | 4 | 6 | 8 |
+Burst Time      | 3 | 6 | 4 | 5 | 2 |
+Waiting Time    | 0 | 1 | 5 | 9 | 5 |
+Turnaround Time | 3 | 7 | 9 | 14 | 7 |
+Finish Time     | 3 | 9 | 13 | 20 | 15 |

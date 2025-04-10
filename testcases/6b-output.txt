@@ -1,0 +1,7 @@
+Multi Level Queue Scheduling
+ID              | A | B | C | D | E |
+Arrival Time    | 0 | 2 | 4 | 6 | 8 |
+Burst Time      | 3 | 6 | 4 | 5 | 2 |
+Waiting Time    | 1 | 12 | 8 | 8 | 1 |
+Turnaround Time | 4 | 18 | 12 | 13 | 3 |
+Finish Time     | 4 | 20 | 16 | 19 | 11 |

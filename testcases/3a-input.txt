@@ -1,0 +1,18 @@
+Enter Time Span: 20
+Enter Number of Processes: 5
+Enter the process name: sjf
+Enter the Process ID, Arrival Time, Burst Time: A
+0
+3
+Enter the Process ID, Arrival Time, Burst Time: B
+2
+6
+Enter the Process ID, Arrival Time, Burst Time: C
+4
+4
+Enter the Process ID, Arrival Time, Burst Time: D
+6
+5
+Enter the Process ID, Arrival Time, Burst Time: E
+8
+2
